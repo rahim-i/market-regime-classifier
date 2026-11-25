@@ -76,7 +76,7 @@ Surprisingly, "Volatile" months have the *highest* average return. Many of them 
 You need Python 3.10 or newer (tested with 3.14).
 
 ```bash
-git clone https://github.com/<your-username>/market-regime-classifier.git
+git clone https://github.com/rahim-i/market-regime-classifier.git
 cd market-regime-classifier
 python3 -m venv .venv
 source .venv/bin/activate          # on Windows: .venv\Scripts\activate
