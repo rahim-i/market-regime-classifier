@@ -1,0 +1,4 @@
+regime_name,months,avg_monthly_return_pct,avg_realised_vol_pct,avg_vix,share_of_time_pct
+Calm,142,0.94,10.9,14.43,44.1
+Volatile,87,2.26,15.95,21.27,27.02
+Stress,93,-1.78,24.72,26.61,28.88

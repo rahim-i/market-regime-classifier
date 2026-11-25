@@ -1,0 +1,3 @@
+Downloaded from Yahoo Finance via yfinance on 25 November 2026.
+Tickers: ^GSPC, ^SP500TR, ^VIX, ^IRX
+Rows: 9294, from 1990-01-02 to 2026-11-25

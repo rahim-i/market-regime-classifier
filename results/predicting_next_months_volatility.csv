@@ -1,0 +1,5 @@
+model,mae_vol_points,r2_vs_hist_avg_pct
+Persistence,5.69,27.11
+Historical average,6.7,0.0
+Linear regression,4.48,52.63
+Gradient boosting,4.89,48.15

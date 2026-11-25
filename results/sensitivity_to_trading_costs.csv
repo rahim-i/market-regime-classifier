@@ -1,0 +1,5 @@
+cost per trade,annual_return_pct,sharpe_ratio,max_drawdown_pct
+0 bps,7.27,0.71,-15.24
+10 bps,7.08,0.68,-15.41
+25 bps,6.79,0.65,-15.66
+50 bps,6.31,0.59,-16.07

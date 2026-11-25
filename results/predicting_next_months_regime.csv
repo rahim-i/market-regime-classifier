@@ -1,0 +1,5 @@
+model,accuracy_pct,balanced_accuracy_pct,stress_recall_pct
+Persistence,76.1,71.4,63.9
+Historical average,42.5,34.3,34.4
+Logistic regression,73.0,67.1,67.2
+Gradient boosting,69.5,63.1,65.6
